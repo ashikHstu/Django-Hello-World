@@ -23,4 +23,4 @@ pip install django
 python -m pip install django
 python3 -m pip install django
 
-Need to check more
+Need to check more, will delete this line
